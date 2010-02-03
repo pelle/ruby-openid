@@ -4,7 +4,7 @@ require 'rake'
 begin
   require 'jeweler'
   Jeweler::Tasks.new do |gem|
-    gem.name = 'ruby-openid'
+    gem.name = 'pelle-ruby-openid'
     gem.author = 'JanRain, Inc'
     gem.email = 'openid@janrain.com'
     gem.homepage = 'http://openidenabled.com/ruby-openid/'
